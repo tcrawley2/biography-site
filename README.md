@@ -15,8 +15,9 @@ This project was to design a home page. As the project seemed open-ended enough,
 HTML, CSS, JavaScript, Bootstrap
 
 ## Presentation materials
-[Figma](https://www.figma.com/file/73GENxE6MYO2q4ceQQyNBv/Project1?node-id=13%3A28)
-[Slides](https://docs.google.com/presentation/d/1SPyvE46gNIcfwcHcFTP3erdv-6mWcv4LQPUs4CtoTA8/edit?usp=sharing)
+- [Figma](https://www.figma.com/file/73GENxE6MYO2q4ceQQyNBv/Project1?node-id=13%3A28)
+- [Slides](https://docs.google.com/presentation/d/1SPyvE46gNIcfwcHcFTP3erdv-6mWcv4LQPUs4CtoTA8/edit?usp=sharing)
+- [Design document](https://docs.google.com/document/d/1G8J-3qnJfn8d-l_gSA1YEZ4qkdstP0Zza6l9PO3GbxI/edit?usp=sharing)
 
 ## Instructions to run
-You can access the site directly [here.](https://tcrawley2.github.io/biography-site/index.html). If you choose to run the website locally, feel free to clone this repository and run on your own server using npm -install & http-server.
+You can access the site directly [here](https://tcrawley2.github.io/biography-site/index.html). If you choose to run the website locally, feel free to clone this repository and run on your own server using npm -install & http-server.
