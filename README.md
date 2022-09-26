@@ -9,6 +9,7 @@ Tim Crawley
 This project was to design a home page. As the project seemed open-ended enough, I decided to create a webpage that touched on two important dimensions of my life, athletics and academics, and how they have shaped me to who I am today. The webpage is only 3 pages large and consists of embedded content, photos, and some simple JavaScript for some added functionality within the page.
 
 ## Screenshot
+![Screenshot of homepage](images/homepage-screenshot.png)
 
 ## Tech Requirements
 HTML, CSS, JavaScript, Bootstrap
