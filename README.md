@@ -1,6 +1,7 @@
 # My Biography Site
 
-[Navigate to the website here.](https://tcrawley2.github.io/biography-site/index.html)
+- [Navigate to the website here.](https://tcrawley2.github.io/biography-site/index.html)
+- [Link to our class website](https://johnguerra.co/classes/webDevelopment_fall_2022/)
 
 ## Author
 Tim Crawley
